@@ -67,3 +67,5 @@ Copyright: Babcock & Bali &emsp;<br/>
 This book will appeal to Python programmers, seasoned modelers, and machine learning engineers who are keen to learn about the creation and implementation of generative models. To make the most out of this book, you should have a basic familiarity with probability theory, linear algebra, and deep learning.
 __Basic proficiency in ML and Python is required.__
 
+__NOTE__: The repository referred in the book is here [packt/github](https://github.com/PacktPublishing/Hands-On-Generative-AI-with-Python-and-TensorFlow-2)
+
